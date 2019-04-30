@@ -1,6 +1,6 @@
 ## Text Macera  Oyunu
 
-#Yapılışı
+# Yapılışı
 
 ![1](https://user-images.githubusercontent.com/41707639/56958070-dd401c00-6b51-11e9-9518-2588f36ed203.PNG)
 ![2](https://user-images.githubusercontent.com/41707639/56958071-dd401c00-6b51-11e9-9635-7c14a22e1fbd.PNG)
