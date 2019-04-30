@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26af48feed9404c45a101cdc88f43896, type: 3}
+  m_Name: A1-1
+  m_EditorClassIdentifier: 
+  hikayemetni: "Malesef yanl\u0131\u015F se\xE7imi yapt\u0131n. \xC7\xFCnk\xFC havlayan
+    k\xF6pek \u0131s\u0131rmaz. Sa\u011F yoldaki k\xF6pek seni \u0131s\u0131rd\u0131n
+    ve 1 hafta i\xE7ersinde bir hastal\u0131\u011Fa kap\u0131larak hayat\u0131n\u0131
+    kaybettin. \nTekrar oynamak istiyor musun? \n1) Evet"
+  sonrakiDurumlar:
+  - {fileID: 11400000, guid: 09f9f67c83d05284aa95ed1fb490e7d1, type: 2}

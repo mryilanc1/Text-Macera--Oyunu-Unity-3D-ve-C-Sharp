@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26af48feed9404c45a101cdc88f43896, type: 3}
+  m_Name: A1-2-2
+  m_EditorClassIdentifier: 
+  hikayemetni: "Malesef yanl\u0131\u015F bir se\xE7im yapt\u0131n. Geriye gittin ve
+    adaya indi\u011Finde sana seslenen adam arkada\u015Flar\u0131n\u0131 da al\u0131p
+    sana orda pusu kurdu ve arkada\u015Flar\u0131na yakaland\u0131n. \u015Eimdi art\u0131k
+    ordaki yerlilerin esiri oldun. Muhtemelen seni kazana koyup pi\u015Firdikten sonra
+    a\uFB01yetle yiyecekler. \n\nTekrar oynamak ister misin? \n\n1) Evet"
+  sonrakiDurumlar:
+  - {fileID: 11400000, guid: 09f9f67c83d05284aa95ed1fb490e7d1, type: 2}

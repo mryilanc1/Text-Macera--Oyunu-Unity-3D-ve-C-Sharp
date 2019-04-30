@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26af48feed9404c45a101cdc88f43896, type: 3}
+  m_Name: BaslaA0
+  m_EditorClassIdentifier: 
+  hikayemetni: "\u015Eimdi bir adaya d\xFC\u015Ft\xFCn, ve bu adada 200 metre uzakta
+    bir insan sana seslenerek; \" Hey oradaki adam\u0131za ho\u015Fgeldin, ben buran\u0131n
+    yerlisiyim. Bizim geleneklerimize g\xF6re adaya ilk gelen insandan bir hediye
+    al\u0131n\u0131r. Hadi hediyeni vermek i\xE7in buraya gel ve benimle tan\u0131\u015F.
+    Hem sana aday\u0131 tan\u0131t\u0131r\u0131m. Buradan \xE7\u0131k\u0131\u015F
+    olmad\u0131\u011F\u0131n\u0131 zaten anlayacaks\u0131n. Hadi ne bekliyorsun buraya
+    gel. \" dedi. \nNe yapacaks\u0131n?\n1) Adam\u0131n yan\u0131na hemen git. \n2)
+    Hemen ko\u015Farak uzakla\u015F."
+  sonrakiDurumlar:
+  - {fileID: 11400000, guid: 127aed74015f5d648b6e412cf847c7a5, type: 2}
+  - {fileID: 11400000, guid: dbac8df823eb3524a9ac16166b08c295, type: 2}
