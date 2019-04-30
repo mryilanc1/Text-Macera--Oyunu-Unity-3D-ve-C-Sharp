@@ -2,7 +2,7 @@
 
 #Yapılışı
 
-https://user-images.githubusercontent.com/41707639/56958070-dd401c00-6b51-11e9-9518-2588f36ed203.PNG
+![1](https://user-images.githubusercontent.com/41707639/56958070-dd401c00-6b51-11e9-9518-2588f36ed203.PNG)
 https://user-images.githubusercontent.com/41707639/56958071-dd401c00-6b51-11e9-9635-7c14a22e1fbd.PNG
 https://user-images.githubusercontent.com/41707639/56958073-dd401c00-6b51-11e9-8628-b22415df7443.PNG)
 https://user-images.githubusercontent.com/41707639/56958074-dd401c00-6b51-11e9-9af6-171b3f21e398.PNG
